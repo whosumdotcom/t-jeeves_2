@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T18:20:58Z",
+  "IdClaims": [
+    {
+      "Claim": "t:jeeves_2"
+    },
+    {
+      "Claim": "mdon:@jeeves_2@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "08ffd634dba847c459626cef",
+    "Timestamp": "2023-04-06T18:25:16Z",
+    "Signature": "7a2867a8c00997aa8115e07c1c5594a775ae7cf8f2666b957fed0b294720c732b5ea94bc6201471b18396cca0a6dea62929b44d8291486ccb6497df2f0f46cb68067a008c5e5568f7305cfdc7bb658f730ae5e33bb0bcddca06a5c206a8916a0012e644ff01bdaa2a3ce54b13dd93cadd19633a4c1675191dccc2789963caeac68b5ca44b6d564d8b619927379dde21761de9eba9eee6e0ba92331c197d111f0b8cd06487fd52d52672766b0a22c3186e83a95f0786766abba435c44cf70dcd743c57b21a539e57526ee6b1b6be7b935ecc747be58d2e506fe76bd7d76c4e5234846c65109c21b5a4f8a632d42a0f7a2fcdd479e4d887b554dad51ff27eca2a4"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "6c088cdd2d713f3879da27cfe06a346142a63564422e87bf35c350a1bb98f2ef",
+  "ContentToHash": "v1|mdon:@jeeves_2@mastodon.social,med:no-account,post:no-account,spout:no-account,ss:no-account,t:jeeves_2|2023-04-06T18:20:58Z"
+}
